@@ -6,6 +6,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -15,5 +16,6 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
