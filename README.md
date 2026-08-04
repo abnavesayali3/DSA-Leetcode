@@ -24,6 +24,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0009-palindrome-number) |
 ## Dynamic Programming
 |  |
