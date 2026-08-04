@@ -18,8 +18,13 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
