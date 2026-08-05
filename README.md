@@ -26,6 +26,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0268-missing-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
