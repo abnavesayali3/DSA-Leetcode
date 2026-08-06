@@ -56,4 +56,12 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | ------- |
 | [0136-single-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
