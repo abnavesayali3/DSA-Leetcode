@@ -11,6 +11,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0088-merge-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
