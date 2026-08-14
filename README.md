@@ -22,6 +22,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | ------- |
 | [0058-length-of-last-word](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [2942-find-words-containing-character](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0283-move-zeroes](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0704-binary-search) |
+| [2942-find-words-containing-character](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
