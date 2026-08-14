@@ -20,6 +20,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
