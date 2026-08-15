@@ -22,6 +22,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | ------- |
 | [0058-length-of-last-word](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0141-linked-list-cycle](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
