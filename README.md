@@ -11,6 +11,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0027-remove-element](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -21,6 +22,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
