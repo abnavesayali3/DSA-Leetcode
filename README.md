@@ -22,6 +22,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -38,6 +39,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0014-longest-common-prefix](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0136-single-number) |
@@ -61,12 +63,14 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
