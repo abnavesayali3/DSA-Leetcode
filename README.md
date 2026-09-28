@@ -140,4 +140,8 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
