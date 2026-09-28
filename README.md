@@ -144,5 +144,6 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
