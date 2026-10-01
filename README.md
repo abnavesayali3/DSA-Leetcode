@@ -147,6 +147,7 @@ A collection of my Data Structures &amp; Algorithms solutions from LeetCode, org
 | [0595-big-countries](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abnavesayali3/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
